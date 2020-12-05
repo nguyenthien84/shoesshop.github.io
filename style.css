@@ -1,0 +1,47 @@
+body, html {
+  height: 100%;
+  
+}
+body {
+  /* The image used */
+  
+  
+  background: url(http://www.rockstar.technology/wp-content/uploads/2018/03/768-light-gray-gradient-1920x1200-abstract-wallpaper-1024x640.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  /* Half height */
+   height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+ 
+/* Dành cho điện thoại */
+@media all and (max-width: 480px) {
+ 
+}
+ 
+/* Dành cho máy tính bảng */
+@media all and (max-width: 1024px) {
+ 
+}
+
+.login{
+	
+	font-size:20px;
+	font-family: "Times New Roman", Times, serif;
+}
+.regis{
+	
+	font-size:20px;
+	font-family: "Times New Roman", Times, serif;
+}
