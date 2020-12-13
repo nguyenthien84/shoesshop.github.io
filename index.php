@@ -77,13 +77,13 @@ Log Out</a>
 					<div id="carouselExampleControls" class="carousel slide my-4" data-ride="carousel">
 						<div class="carousel-inner">
 							<div class="carousel-item active">
-								<img src="img/curry9.jpg" class="d-block w-100" alt="...">
+								<img src="img/1.jpg" class="d-block w-100" alt="...">
 							</div>
 							<div class="carousel-item">
-								<img src="img/curry91.jpg" class="d-block w-100" alt="...">
+								<img src="img/2.jpg" class="d-block w-100" alt="...">
 							</div>
 							<div class="carousel-item">
-								<img src="img/currychin.jpg" class="d-block w-100" alt="...">
+								<img src="img/3.jpg" class="d-block w-100" alt="...">
 							</div>
 						</div>
 						<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -99,13 +99,13 @@ Log Out</a>
 						<div class="col-lg-4 col-md-6 mb-4">
 							<form action="manage_cart.php" method="POST">
 								<div class="card">
-									<img src="img/curry-1.jpg" class="card-img-top">
+									<img src="img/4.jpg" class="card-img-top">
 									<div class="card-body text-center">
-										<h5 class="card-title">Curry 1</h5>
-										<p class="card-text">The most simplifed colorway of the Stephen Curry's first signature sneaker is the Under Armour Curry One. <strong>Price: $650</strong></p>
+										<h5 class="card-title">Đắc Nhân Tâm</h5>
+										<p class="card-text">Dale Carnegie - How to Win Friends and Influencers by Dale Carnegie is the most famous, best-selling and influential book of all time. The work has been translated into most languages around the world and is available in hundreds of countries.<br> <strong>Price: $12</strong></p>
 										<button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button>
-										<input type="hidden" name="Item_Name" value="Curry 1">
-										<input type="hidden" name="Price" value="650">
+										<input type="hidden" name="Item_Name" value="Đắc Nhân Tâm">
+										<input type="hidden" name="Price" value="12">
 									</div>
 								</div>
 							</form>
@@ -113,13 +113,13 @@ Log Out</a>
 						<div class="col-lg-4 col-md-6 mb-4">
 							<form action="manage_cart.php" method="POST">
 								<div class="card">
-									<img src="img/curry-2.jpg" class="card-img-top">
+									<img src="img/5.jpg" class="card-img-top">
 									<div class="card-body text-center">
-										<h5 class="card-title">Curry 2</h5>
-										<p class="card-text">The Under Armour Curry Two 'Suit & Tie' gives off that old Playoff vibe with the black and also white with upper. <strong>Price: $850</strong></p>
+										<h5 class="card-title">Chủ Nghĩa Khắc Kỷ</h5>
+										<p class="card-text">TThis is what you deserve to receive. You could be better today but you choose tomorrow instead.<br> <strong>Price: $10</strong></p>
 										<button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button>
-										<input type="hidden" name="Item_Name" value="Curry 2">
-										<input type="hidden" name="Price" value="850">
+										<input type="hidden" name="Item_Name" value="Chủ Nghĩa Khắc Kỷ">
+										<input type="hidden" name="Price" value="10">
 									</div>
 								</div>
 							</form>
@@ -127,13 +127,13 @@ Log Out</a>
 						<div class="col-lg-4 col-md-6 mb-4">
 							<form action="manage_cart.php" method="POST">
 								<div class="card">
-									<img src="img/curry-3.png" class="card-img-top">
+									<img src="img/6.jpg" class="card-img-top">
 									<div class="card-body text-center">
-										<h5 class="card-title">Curry 3</h5>
-										<p class="card-text">The Under Armour Curry 3 sticks like the HOVR Havoc. Most Players are reporting that these UA shoes court. <strong>Price: $950</strong></p>
+										<h5 class="card-title">How To Win Friends & Influence People</h5>
+										<p class="card-text">One of the top-selling books of all time, "How to Win Friends & Influence People" has sold more than 15 million copies in all its editions.<br> <strong>Price: $12</strong></p>
 										<button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button>
-										<input type="hidden" name="Item_Name" value="Curry 3">
-										<input type="hidden" name="Price" value="950">
+										<input type="hidden" name="Item_Name" value="How To Win Friends & Influence People">
+										<input type="hidden" name="Price" value="12">
 									</div>
 								</div>
 							</form>
@@ -141,13 +141,13 @@ Log Out</a>
 						<div class="col-lg-4 col-md-6 mb-4">
 							<form action="manage_cart.php" method="POST">
 								<div class="card">
-									<img src="img/curry4.jpg" class="card-img-top">
+									<img src="img/7.jpg" class="card-img-top">
 									<div class="card-body text-center">
-										<h5 class="card-title">Curry 4</h5>
-										<p class="card-text">Some are claiming that the Curry 4 is among the best fitting high-top basketball shoes they have ever worn. <strong>Price: $1050</strong></p>
+										<h5 class="card-title">Đọc Vị Bất Kỳ Ai</h5>
+										<p class="card-text">"Don't think that you can hide your thoughts by hiding proof of existence" <br><strong>Price: $6</strong></p>
 										<button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button>
-										<input type="hidden" name="Item_Name" value="Curry 4">
-										<input type="hidden" name="Price" value="1050">
+										<input type="hidden" name="Item_Name" value="Đọc Vị Bất Kỳ Ai">
+										<input type="hidden" name="Price" value="6">
 									</div>
 								</div>
 							</form>
@@ -155,13 +155,13 @@ Log Out</a>
 						<div class="col-lg-4 col-md-6 mb-4">
 							<form action="manage_cart.php" method="POST">
 								<div class="card">
-									<img src="img/curry-5.jpg" class="card-img-top">
+									<img src="img/8.jpg" class="card-img-top">
 									<div class="card-body text-center">
-										<h5 class="card-title">Curry 5</h5>
-										<p class="card-text">Overall, the Under Armour Curry 5 is a big excited and of the Curry signature shoes line. So they decied to buy it. <strong>Price: $1350</strong></p>
+										<h5 class="card-title">Tại Sao Phương Tây Vượt Trội?</h5>
+										<p class="card-text">This is the latest book on a historical unification theory that we have. <br><strong>Price: $20</strong></p>
 										<button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button>
-										<input type="hidden" name="Item_Name" value="Curry 5">
-										<input type="hidden" name="Price" value="1350">
+										<input type="hidden" name="Item_Name" value="Tại Sao Phương Tây Vượt Trội?">
+										<input type="hidden" name="Price" value="20">
 									</div>
 								</div>
 							</form>
@@ -169,13 +169,13 @@ Log Out</a>
 						<div class="col-lg-4 col-md-6 mb-4">
 							<form action="manage_cart.php" method="POST">
 								<div class="card">
-									<img src="img/curry-6.jpg" class="card-img-top">
+									<img src="img/9.jpg" class="card-img-top">
 									<div class="card-body text-center">
-										<h5 class="card-title">Curry 6</h5>
-										<p class="card-text">Overall, reviewers are having a lot of fun with this shoe and rank it as one of the best Curry signature shoes so far! <strong>Price: $1550</strong></p>
+										<h5 class="card-title">Tư Duy Nhanh Và Chậm</h5>
+										<p class="card-text">Top 11 most attractive business books in 2011 <br><strong>Price: $12</strong></p>
 										<button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button>
-										<input type="hidden" name="Item_Name" value="Curry 6">
-										<input type="hidden" name="Price" value="1550">
+										<input type="hidden" name="Item_Name" value="Tư Duy Nhanh Và Chậm">
+										<input type="hidden" name="Price" value="12">
 									</div>
 								</div>
 							</form>
